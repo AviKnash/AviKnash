@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, this is me:
+
 🔭 I’m currently working on Property leasing/renting form digitalization platform @ Insighture/Hutly<br><br>🌱 I’m currently learning ASP.NET Core && Systems architecture<br><br>💬 Ask me about beautiful/ clean UI, Pokemon and Anime <br><br>📫 How to reach me aavinash1997@gmail.com
 
 
