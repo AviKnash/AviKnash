@@ -8,7 +8,7 @@
 
 📬 **Get in Touch**: You can reach me at **aavinash1997@gmail.com** for any inquiries or collaborations!
 
-## 🎮 My favorite projects
+## 🎮 My prized pocessions
 
 -[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
 <div>
