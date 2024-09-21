@@ -8,7 +8,7 @@
 
 📬 **Get in Touch**: You can reach me at **aavinash1997@gmail.com** for any inquiries or collaborations!
 
-## 🎮 My prized pocessions
+# 🎮 My prized pocessions
 
 -[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
 <div>
@@ -17,7 +17,7 @@
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avinash-ashok-541b25241) 
 
 # 💻 Tech Stack:
