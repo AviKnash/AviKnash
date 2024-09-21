@@ -8,6 +8,14 @@
 
 📬 **Get in Touch**: You can reach me at **aavinash1997@gmail.com** for any inquiries or collaborations!
 
+## 🎮 My favorite projects
+
+-[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
+<div>
+  <img src="https://github.com/user-attachments/assets/dc423a63-9dc4-4c00-bff2-48e13380895a" alt="Screenshot 2024-09-21 201317" width="400"/>
+</div>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avinash-ashok-541b25241) 
