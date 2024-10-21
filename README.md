@@ -15,7 +15,7 @@
   <img src="https://github.com/user-attachments/assets/befe6ece-ff46-440a-99da-c3aeb5f3a10d" alt="Screenshot 2024-10-21 201317" width="400"/>
 </div>
 
-
+<br/> 
 
 -[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
 <div>
