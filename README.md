@@ -10,6 +10,14 @@
 
 # 🎮 Some of my hosted projects
 
+
+-[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
+<div>
+  <img src="https://github.com/user-attachments/assets/dc423a63-9dc4-4c00-bff2-48e13380895a" alt="Screenshot 2024-09-21 201317" width="400"/>
+</div>
+
+<br />
+
 -[Avinash Portfolio](https://www.aavinash.live) is my own aerodynamic web portfolio.
 <div>
   <img src="https://github.com/user-attachments/assets/befe6ece-ff46-440a-99da-c3aeb5f3a10d" alt="Screenshot 2024-10-21 201317" width="400"/>
@@ -17,11 +25,12 @@
 
 <br/> 
 
--[Warboard](https://www.warboard.live) is a simple passion project I build to make type practicing fun!
+-[Bubble](https://www.tinybubbles.online) is my own attempt at a minimalistic social media application.
 <div>
-  <img src="https://github.com/user-attachments/assets/dc423a63-9dc4-4c00-bff2-48e13380895a" alt="Screenshot 2024-09-21 201317" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6fd5d0ad-d8a8-4b6b-864e-cdfdda540dc0" alt="Screenshot 2024-10-25 201317" width="400"/>
 </div>
 
+<br/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avinash-ashok-541b25241) 
